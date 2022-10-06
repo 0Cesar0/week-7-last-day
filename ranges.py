@@ -38,14 +38,14 @@ def ranges():
   
   # Range Practice #1
   # Create a list consisting of all the numbers from 2500 to 2585 (inclusive). Store this list in the variable my_list.
-my_list = list(range(2500,2585))
-print(my_list)
+#my_list = list(range(2500,2585))
+#print(my_list)
   
   
   # Range Practice #2
   # Using the range() function, create in a single line of code a list consisting of all numbers that are multiples of 3 from 3 to 300 (inclusive). Store this list in the variable my_list.
-my_list = list(range(0,301,3))
-print(my_list)
+#my_list = list(range(0,301,3))
+#print(my_list)
   
   
   # Range Practice #3
@@ -58,11 +58,11 @@ print(my_list)
  # sum_squares = sum_square + number **2
   #print(sum_squares)
 
-sum = 0
-for number in range(1,151):
-  sum += number
+#sum = 0
+#for number in range(1,151):
+ # sum += number
   #sum = sum + number
-print(sum)
+#print(sum)
   
   
    
